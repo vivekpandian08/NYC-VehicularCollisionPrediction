@@ -1,9 +1,3 @@
----
-title: "NYC_MV_hypo1"
-author: "Mansi Rathod"
-date: "3/6/2020"
-output: pdf_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
